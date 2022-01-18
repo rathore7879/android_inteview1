@@ -11,11 +11,18 @@ Kotlin Interview Questions :-
 
 
 Android Jet Pack:- 
-Data Binding: Declaratively bind UI elements to in our layout to data sources of our app.
+Data Binding: Declaratively bind UI elements to in our layout to data sources of our app
+
 Lifecycles: Manages activity and fragment lifecycles of our app.
+
 LiveData: Notify views of any database changes.
+
 Navigation: Handle everything needed for in-app navigation.
+
 Paging: Gradually load information on demand from your data source.
+
 Room: Fluent SQLite database access.
+
 ViewModel: Manage UI-related data in a lifecycle-conscious way.
+
 WorkManager: Manage every background jobs in Android with the circumstances we choose.
