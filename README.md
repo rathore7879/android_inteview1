@@ -1,4 +1,4 @@
-# android_inteview1
+# android_inteview
 android interview Questions
 
 Kotlin Interview Questions :- 
@@ -8,6 +8,11 @@ Kotlin Interview Questions :-
 4. Open keyword in kotlin
 5. Inline function :- An inline function is declare with a keyword inline. The use of inline function enhances the performance of higher order function. The inline function tells the compiler to copy parameters and functions to the call site.
 6. Extention Function
+
+Diffrence between Room and SqlLite:- 
+The Room persistence library provides an abstraction layer over SQLite to allow fluent database access.
+1. Compile-time verification of SQL queries.
+2. Convenience annotations that minimize repetitive and error-prone boilerplate code.
 
 
 Android Jet Pack:- 
