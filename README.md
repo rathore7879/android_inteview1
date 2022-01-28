@@ -8,6 +8,7 @@ Kotlin Interview Questions :-
 4. Open keyword in kotlin
 5. Inline function :- An inline function is declare with a keyword inline. The use of inline function enhances the performance of higher order function. The inline function tells the compiler to copy parameters and functions to the call site.
 6. Extention Function
+7. lateinit and lazy :- https://agrawalsuneet.github.io/blogs/lateinit-vs-lazy-property-in-kotlin/
 
 Diffrence between Room and SqlLite:- 
 The Room persistence library provides an abstraction layer over SQLite to allow fluent database access.
